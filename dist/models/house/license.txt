@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cartoon House
+* source:	https://sketchfab.com/3d-models/cartoon-house-e12095d65ba14688a1e6fb79cbd57a2e
+* author:	Deshan (https://sketchfab.com/nufnuf1337)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cartoon House" (https://sketchfab.com/3d-models/cartoon-house-e12095d65ba14688a1e6fb79cbd57a2e) by Deshan (https://sketchfab.com/nufnuf1337) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
